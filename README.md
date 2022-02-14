@@ -1,2 +1,2 @@
 # home
-Pubic repositry
+Public repositry
